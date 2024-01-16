@@ -1,5 +1,5 @@
 sonar.verbose=true
-sonar.organization=rakesh1433
+sonar.organization=Rakesh1433
 sonar.projectKey=rakesh1433-key_twitter-trend
 sonar.projectName=twitter-trend
 sonar.language=java
